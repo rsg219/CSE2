@@ -1,0 +1,15 @@
+public class Do Now{
+    
+    public static void main(String[] args) 
+    {
+        
+    float Balance = 205.12;
+    float Interest = 1.003;
+    float NewBalance;
+
+    NewBalance = Balance * Interest;
+    
+    System.out.println(Interest);
+    }
+}
+
