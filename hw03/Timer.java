@@ -22,5 +22,6 @@ public class Timer{
         //splits the current time into minutes and hours
         
         System.out.print ("You have " +timeHours +" hours and " +timeMinutes +" minutes until dinner;");
+        //displays the time between the current time and dinner time
         }
 }
