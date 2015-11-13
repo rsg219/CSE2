@@ -25,3 +25,44 @@ public class Block{
         //displays the area and surface area of the block
     }
 }
+
+/*
+public class Test2 {
+
+  public static void main(String[] args){
+
+        int[] array1;
+
+        array1 = new int[10];
+
+
+
+        for(int count =0;count<10;count++){
+
+
+
+             array1[count]= (int)(Math.random()*23);
+
+        }
+
+
+
+        int[] array2;
+
+        array2 = new int[5];
+
+        int array1Count=0;
+
+        
+
+        for(int count =0;count<5;count++){
+
+             array2[count]= array1[array1Count];
+
+             array1Count=array1Count+2;
+
+        }
+
+    }
+}
+*/
